@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Life is SHOW TIME",
+  "base_artist": "鬼龍院翔 from ゴールデンボンバー",
+  "createdAt": "2025-12-15T11:58:35.129070Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Life is SHOW TIME instrumental - Life is SHOW TIME（Instrumental）",
+      "artist": "Kiryuin Sho from Golden Bomber",
+      "has_synced": false,
+      "path": "select/01_Life_is_SHOW_TIME_instrumental_-_Life_is_SHOW_TIME(Instrumental)_Kiryuin_Sho_from_Golden_Bomber.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Life is SHOW TIME",
+      "artist": "鬼龍院翔 from ゴールデンボンバー",
+      "has_synced": true,
+      "path": "select/02_Life_is_SHOW_TIME_鬼龍院翔_from_ゴールデンボンバー.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Life is SHOW TIME(『仮面ライダーウィザード』主題歌)",
+      "artist": "Sho Kiryuuin",
+      "has_synced": true,
+      "path": "select/03_Life_is_SHOW_TIME(『仮面ライダーウィザード』主題歌)_Sho_Kiryuuin.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Life is SHOW TIME（『仮面ライダーウィザード』主題歌）",
+      "artist": "Sho Kiryuuin",
+      "has_synced": true,
+      "path": "select/04_Life_is_SHOW_TIME(『仮面ライダーウィザード』主題歌)_Sho_Kiryuuin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Life is SHOW TIME",
+      "artist": "Sho Kiryuuin",
+      "has_synced": true,
+      "path": "select/05_Life_is_SHOW_TIME_Sho_Kiryuuin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Life Is Show Time",
+      "artist": "Anime Project",
+      "has_synced": true,
+      "path": "select/06_Life_Is_Show_Time_Anime_Project.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Life is SHOW TIME（『仮面ライダーウィザード』主題歌）",
+      "artist": "鬼龍院翔",
+      "has_synced": false,
+      "path": "select/07_Life_is_SHOW_TIME(『仮面ライダーウィザード』主題歌)_鬼龍院翔.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Life is SHOW TIME",
+      "artist": "Kiryuin Sho from Golden Bomber",
+      "has_synced": true,
+      "path": "select/08_Life_is_SHOW_TIME_Kiryuin_Sho_from_Golden_Bomber.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Life is SHOW TIME",
+      "artist": "Kamen Rider Wizard",
+      "has_synced": false,
+      "path": "select/09_Life_is_SHOW_TIME_Kamen_Rider_Wizard.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Life is SHOW TIME",
+      "artist": "鬼龍院翔 from ゴールデンボンバー",
+      "has_synced": false,
+      "path": "select/pl_01_Life_is_SHOW_TIME_鬼龍院翔_from_ゴールデンボンバー.txt"
+    }
+  ]
+}
